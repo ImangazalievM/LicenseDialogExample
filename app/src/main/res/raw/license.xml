@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notices>
+    <notice>
+        <name>Application Crash Reporting for Android (ACRA)</name>
+        <url>http://acra.ch/</url>
+        <copyright>Copyright 2010 Emmanuel Astier &amp; Kevin Gaudin</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>Android ViewPagerIndicator</name>
+        <url>http://viewpagerindicator.com/</url>
+        <copyright>Copyright (C) 2011 The Android Open Source Project&lt;br/&gt;Copyright (C) 2012 Jake Wharton</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+    <notice>
+        <name>OrmLite</name>
+        <url>http://ormlite.com/</url>
+        <copyright>Copyright Gray Watson</copyright>
+        <license>ISC License</license>
+    </notice>
+    <notice>
+        <name>PhotoView</name>
+        <url>https://github.com/chrisbanes/PhotoView</url>
+        <copyright>Copyright 2011, 2012 Chris Banes.</copyright>
+        <license>Apache Software License 2.0</license>
+    </notice>
+</notices>
